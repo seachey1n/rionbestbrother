@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #FFF5E1; /* Very light orange */
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #e69500;
+}
+
+#verse {
+    font-family: Calibri, sans-serif;
+    font-style: italic;
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #333;
+}
